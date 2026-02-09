@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kitsunee0104&theme=dracula)](https://git.io/streak-stats)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kitsunee0104&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
